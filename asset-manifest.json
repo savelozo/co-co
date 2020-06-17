@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/co-co/static/css/main.bdc2ccb9.chunk.css",
+    "main.js": "/co-co/static/js/main.35b7f7a2.chunk.js",
+    "main.js.map": "/co-co/static/js/main.35b7f7a2.chunk.js.map",
+    "runtime-main.js": "/co-co/static/js/runtime-main.43db0bbf.js",
+    "runtime-main.js.map": "/co-co/static/js/runtime-main.43db0bbf.js.map",
+    "static/js/2.5a030ed2.chunk.js": "/co-co/static/js/2.5a030ed2.chunk.js",
+    "static/js/2.5a030ed2.chunk.js.map": "/co-co/static/js/2.5a030ed2.chunk.js.map",
+    "index.html": "/co-co/index.html",
+    "precache-manifest.f2f4e7a7c60b79c32310b5266bcbb0ba.js": "/co-co/precache-manifest.f2f4e7a7c60b79c32310b5266bcbb0ba.js",
+    "service-worker.js": "/co-co/service-worker.js",
+    "static/css/main.bdc2ccb9.chunk.css.map": "/co-co/static/css/main.bdc2ccb9.chunk.css.map",
+    "static/js/2.5a030ed2.chunk.js.LICENSE.txt": "/co-co/static/js/2.5a030ed2.chunk.js.LICENSE.txt",
+    "static/media/LogoCOyCO.png": "/co-co/static/media/LogoCOyCO.37aa41f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43db0bbf.js",
+    "static/js/2.5a030ed2.chunk.js",
+    "static/css/main.bdc2ccb9.chunk.css",
+    "static/js/main.35b7f7a2.chunk.js"
+  ]
+}
